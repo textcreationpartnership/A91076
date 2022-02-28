@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Proposal for raising one hundred thousand pounds, by laying a duty upon hats.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91076</idno>
+            <idno type="STC">Wing P3693A</idno>
+            <idno type="STC">ESTC T80631</idno>
+            <idno type="EEBO-CITATION">45504509</idno>
+            <idno type="OCLC">ocm 45504509</idno>
+            <idno type="VID">171823</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91076)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171823)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2593:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Proposal for raising one hundred thousand pounds, by laying a duty upon hats.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1698?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date and place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hats --  Taxation --  England --  Early works to 1800.</term>
+               <term>Finance, Public --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proposal">
+            <pb facs="tcp:171823:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 25 -->
+            <head>A PROPOSAL <hi>For Raiſing one Hundred Thouſand Pounds, by laying a Duty upon</hi> Hats.</head>
+            <p>
+               <note place="margin">The Equality of this Tax.</note>THis is an equal Tax, for tho' a Poor Man pay as great a Tax as a Rich Man, yet the Rich Man wearing more <hi>Hats</hi> than the Poor Man, conſe<g ref="char:EOLhyphen"/>quently pays the more Taxes; but, if that ſatisfy not, then the Tax may be proportion'd to the value of the <hi>Hats,</hi> viz <hi>Bevers, Casters, Carolinas,</hi> or <hi>Bever-Carolina</hi>'s and <hi>Felts,</hi> the <hi>Felts</hi> to pay Six-pence and the reſt Twelve-pence a Piece.</p>
+            <p>
+               <note place="margin">The Practicableneſs of it, how and which way this Commodity may be brought to ac<g ref="char:EOLhyphen"/>count, ſo as to render it capable of being Tax'd.</note>The ſame Method, in ſome meaſure, being taken in this, as in the <hi>Exciſe;</hi> for each <hi>Hatter</hi> muſt once a Month (or oftner if there be occaſion) make an Entry of how many of each ſort of <hi>Hats</hi> each of his Men makes every day, the Names of each Journyman, the particular Number and ſorts each Journyman makes to be ſet down to his Name, the days of their making none to be likewiſe ſet down, the Entry to be made at the next Exciſe Office, a Copy of the Entry to be there taken, one at the Office and the Gauger to ſign it, and then to be affix'd in the Shop for the Journymen to referr to. Incouragement to be given to any of the Ser<g ref="char:EOLhyphen"/>vants for diſcovering falſe Entries, and Penalties to be laid on them that make 'em, every Journyman for concealing likewiſe to incur a Penalty. By this means every <hi>Hatter,</hi> if he makes a falſe Entry, will be in the power of every one of the ſaid Journymen; and they for their concealment will be in the power of each other. This, with other Proviſions that are made, ſecures this Tax from Frauds and con<g ref="char:EOLhyphen"/>cealments (as by the propoſal at large will appear) much better than the Exciſe either is or can be, and beſides there is a Mark or Stamp provided, if it be neceſſa<g ref="char:EOLhyphen"/>ry, whereby it will not only be under a greater ſecurity than the Exciſe, but equal with that of the Stamp Office too.</p>
+            <p>
+               <note place="margin">From the neceſſity of this Commodity, no prejudice to the <hi>Hat<g ref="char:EOLhyphen"/>ters</hi> Trade; and from its being General, and proportion'd to the va<g ref="char:EOLhyphen"/>lue of the <hi>Hat,</hi> no hardſhip upon any one.</note>This is Tax on things abſolutely neceſſary, and ſuch as muſt be had, and therefore no prejudice to Trade; and tho' it be upon neceſſaries, yet ſo Small is the Conſumption among the poorer ſort of People that they cannot be thereby put under any manner of Difficulties, and is ſo general that there's none who does not Contribute towards it, and tho' the Supply is very conſiderable, yet ſo ſmall a matter is it that comes out of each Mans Pocket, that it cannot be imagin'd 'twill be a hardſhip upon any. <hi>Hats</hi> (as every one knows) are fallen more than a Third, and notwithſtanding, it is not known that the Conſumption is in<g ref="char:EOLhyphen"/>creas'd by it; therefore, if the ſinking of the price has not increas'd the conſumpti<g ref="char:EOLhyphen"/>on, the riſing of it again (eſpecially ſince the Duty propos'd will not raiſe 'em to what they were before) cannot leſſen is; and is ſo Calculated that, as by the
+<pb facs="tcp:171823:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 26 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:171823:3"/>
+               <!-- PDF PAGE 27 -->every Journyman for concealing likewiſe to incur a Penalty. By this means every <hi>Hatter,</hi> if he makes a falſe Entry, will be in the power of every one of the ſaid Journymen; and they for their concealment will be in the power of each other. This, with other Proviſions that are made, ſecures this Tax from Frauds and con<g ref="char:EOLhyphen"/>cealments (as by the propoſal at large will appear) much better than the Exciſe either is or can be, and beſides there is a Mark or Stamp provided, if it be neceſſa<g ref="char:EOLhyphen"/>ry, whereby it will not only be under a greater ſecurity than the Exciſe, but equal with that of the Stamp Office too.</p>
+            <p>
+               <note place="margin">From he neceſſity of this Commodity, no prejudice to the <hi>Hat<g ref="char:EOLhyphen"/>ters</hi> Trade; and from its being General, and proportion'd to the va<g ref="char:EOLhyphen"/>lue of the <hi>Hat,</hi> no hardſhip upon any one.</note>This is a Tax on things abſolutely neceſſary, and ſuch as muſt be had, and therefore no prejudice to Trade; and tho' it be upon neceſſaries, yet ſo Small is the Conſumption among the poorer ſort of People that they cannot be thereby put under any manner of Difficulties, and is ſo general that there's none who does not Contribute towards it, and tho' the Supply is very conſiderable, yet ſo ſmall a matter is it that comes out of each Mans Pocket, that it cannot be imagin'd 'twill be a hardſhip upon any. <hi>Hats</hi> (as every one knows) are fallen more than a Third, and notwithſtanding, it is not known that the Conſumption is in<g ref="char:EOLhyphen"/>creas'd by it; therefore, if the ſinking of the price has not increas'd the conſumpti<g ref="char:EOLhyphen"/>on, the riſing of it again (eſpecially ſince the Duty propos'd will not raiſe 'em to what they were before) cannot leſſen it; and is ſo Calculated that, as by the Propoſal beforementioned will appear, it brings in ready Mony.</p>
+            <p>
+               <note place="margin">The Collection with<g ref="char:EOLhyphen"/>out Charge, being to be manag'd by the Of<g ref="char:EOLhyphen"/>ficers of the <hi>Exciſe.</hi>
+               </note>By how much the charge of one Tax is leſs than another, by ſo much in that re<g ref="char:EOLhyphen"/>ſpect it has the advantage, and is as it were, ſo much clear gains to the Government. Now the charge of the Exciſe, it ſeems, comes to about a Tenth of the Income, and this being to be annex'd to the Exciſe-Office may be eaſily manag'd by their Of<g ref="char:EOLhyphen"/>ficers, ſo that this may be brought in for nothing, or for a very ſmall matter at moſt. C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>omparing this advantage therefore with the Exciſe, together with the ſe<g ref="char:EOLhyphen"/>curity of this Tax beyond what that is capable of, and, if a Mark ſhall be thought neceſſary, equal to that of the Stamp-Office too, it will be found there will be ſo much ſav'd by it, which together with its other advantages will be no ſmall Re<g ref="char:EOLhyphen"/>commendation of it. The Cuſtoms are not brought in neitherunder a very great charge; nay, the very Land Tax amounts to a Twenty-Third.</p>
+            <p>
+               <note place="margin">From its creating no new <hi>Officers</hi> and its being Collectable with little or 'no charge, is is free from all ill Conſequeces, it is therefore <hi>NO EXCISE.</hi>
+               </note>And tho' it be propos'd to be under the managery of the Exciſe, yet is it not an Exciſe it ſelf, that is to ſay, tis not attended with the ſame ill conſequences; be<g ref="char:EOLhyphen"/>cauſe it creates no new Offices or Officers, and is Collectable with little or no charge. For this reaſon therefore, and becauſe it is a Tax equal in it ſelf, certain to be depended upon, to be had without Frauds or Concealments, that does not Prejudice Trade in general, or the <hi>Hat-makers</hi> in particular; it is Humbly propos'd to the Conſideration of this Honourable Houſe.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
